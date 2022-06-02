@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://raw.githubusercontent.com/HemtKhan/HEMAT2009/main/public.txt').text
+			plr = requests.get('https://raw.githubusercontent.com/HemtKhan/HEMAT2007/main/public.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
