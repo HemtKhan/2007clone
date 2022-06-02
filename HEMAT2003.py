@@ -41,7 +41,7 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/irfan7732/test/blob/main/a.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/HemtKhan/2007clone/blob/main/public.txt"])
 	exit(" [*] FACEBOOK :  https://www.facebook.com/irfan.7732")
 
 
